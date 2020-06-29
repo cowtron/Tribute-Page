@@ -1,0 +1,39 @@
+#main {
+  font-family: 'Bangers', cursive;
+  text-align: center;
+  font-size: 18px;
+}
+#title {
+  background: #bddedc;
+}
+h1 {
+  font-size: 64px;
+}
+h2 {
+  font-size: 48px;
+}
+#img-div {
+  max-width: 100%;
+  height:auto;
+  display:block;
+  margin:0;
+  padding:10px;
+}
+img{
+  max-width:100%;
+  height:auto;
+  margin:0 auto;
+  display:block;
+}
+#tribute-info{
+  background:#bddedc;
+}
+ul{
+  max-width:500px;
+  text-align:left;
+  line-height:2;
+  margin:0 auto 50px auto;
+}
+a{color:blue;}
+a:visited{color:red;}
+
